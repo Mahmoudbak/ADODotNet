@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\ADOTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\borroing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\borroing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\borroing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\borroing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\selectwhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\selectwhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\selectwhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\selectwhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\addnewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\addnewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|c:\\users\\dell\\source\\repos\\adotask\\adotask\\addnewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA12364-6FBE-4B22-BFAB-64190A103543}|ADOTask\\ADOTask.csproj|solutionrelative:adotask\\addnewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Borroing.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Borroing.cs",
+              "RelativeDocumentMoniker": "ADOTask\\Borroing.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Borroing.cs",
+              "RelativeToolTip": "ADOTask\\Borroing.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:05:36.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Borroing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Borroing.cs",
+              "RelativeDocumentMoniker": "ADOTask\\Borroing.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Borroing.cs [Design]",
+              "RelativeToolTip": "ADOTask\\Borroing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:59:11.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "selectwhat.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\selectwhat.cs",
+              "RelativeDocumentMoniker": "ADOTask\\selectwhat.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\selectwhat.cs",
+              "RelativeToolTip": "ADOTask\\selectwhat.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:58:38.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "selectwhat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\selectwhat.cs",
+              "RelativeDocumentMoniker": "ADOTask\\selectwhat.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\selectwhat.cs [Design]",
+              "RelativeToolTip": "ADOTask\\selectwhat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:54:38.715Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Form1.cs",
+              "RelativeDocumentMoniker": "ADOTask\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Form1.cs [Design]",
+              "RelativeToolTip": "ADOTask\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:54:30.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Book.cs",
+              "RelativeDocumentMoniker": "ADOTask\\Book.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Book.cs [Design]",
+              "RelativeToolTip": "ADOTask\\Book.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:21:25.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Book.cs",
+              "RelativeDocumentMoniker": "ADOTask\\Book.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Book.cs",
+              "RelativeToolTip": "ADOTask\\Book.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwHIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:59:25.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddNewMember.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\AddNewMember.cs",
+              "RelativeDocumentMoniker": "ADOTask\\AddNewMember.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\AddNewMember.cs",
+              "RelativeToolTip": "ADOTask\\AddNewMember.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:10:03.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Member.cs",
+              "RelativeDocumentMoniker": "ADOTask\\Member.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Member.cs",
+              "RelativeToolTip": "ADOTask\\Member.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAawJQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:18:42.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddNewMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\AddNewMember.cs",
+              "RelativeDocumentMoniker": "ADOTask\\AddNewMember.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\AddNewMember.cs [Design]",
+              "RelativeToolTip": "ADOTask\\AddNewMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:57:06.53Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Member.cs",
+              "RelativeDocumentMoniker": "ADOTask\\Member.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOTask\\ADOTask\\Member.cs [Design]",
+              "RelativeToolTip": "ADOTask\\Member.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:55:22.092Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
